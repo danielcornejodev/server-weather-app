@@ -13,7 +13,7 @@ It demonstrates a **Backend-for-Frontend (BFF)** pattern: the frontend never cal
 
 ## Live Demo
 
-- Backend URL: [https://server-weather-app.vercel.app/](https://server-weather-app.vercel.app/)
+- Backend URL: https://server-weather-app.vercel.app/
 
 ## Features
 
